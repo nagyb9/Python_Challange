@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b31438a-ac1f-443e-abac-8922a6a2955f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../poker/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/initializer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/mixins/keep-only-changed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/model-ext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/transforms/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/transforms/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../addon/utilities.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/initializers/ember-data-change-tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/mixins/change-serializer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/transforms/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/transforms/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/ember-try.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/environment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ember-cli-build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/adapters/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/controllers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/helpers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/big-company.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/cat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/company.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/dog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/pet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/small-company.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/models/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/resolver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/routes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/serializers/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/serializers/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/styles/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/templates/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/big-company.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/cat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/company.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/dog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/pet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/small-company.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/app/tests/factories/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/config/environment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/public/crossdomain.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/dummy/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/helpers/destroy-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/helpers/module-for-acceptance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/helpers/resolver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/helpers/start-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/integration/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/test-helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit/model-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit/tracker-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tests/unit/utilities-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vendor/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/level4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/level2.py" />
+        <option value="$PROJECT_DIR$/level3.py" />
+        <option value="$PROJECT_DIR$/level4.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Python_challange.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_challange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_challange" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.level4">
+    <configuration name="level2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_challange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/level2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="level3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_challange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/level3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="level4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_challange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/level4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.level4" />
+        <item itemvalue="Python.level3" />
+        <item itemvalue="Python.level2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b31438a-ac1f-443e-abac-8922a6a2955f" name="Default Changelist" comment="" />
+      <created>1557579260635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557579260635</updated>
+      <workItem from="1557579261794" duration="5060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5060000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" weight="0.32956383" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_challange$level2.coverage" NAME="level2 Coverage Results" MODIFIED="1557580921783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_challange$level4.coverage" NAME="level4 Coverage Results" MODIFIED="1557587330916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_challange$level3.coverage" NAME="level3 Coverage Results" MODIFIED="1557584272935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/level3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
